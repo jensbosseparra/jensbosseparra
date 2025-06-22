@@ -32,11 +32,11 @@ AI Engineer • Digital Product Manager • Founder
 ---
 
 ### Currently Working On
-* **AI Recruiting Marketplace** – multi-agent system with **120 + agents** across **25 + independent modules**.
+* **[AI Recruiting Marketplace](https://github.com/jensbosseparra/multi-agent-expert-sourcing)** – multi-agent system with **120 + agents** across **25 + independent modules**.
 
-### Upcoming Open-Source Releases
-Over the next few weeks I’ll open-source several internal automations.  
-They already total **3 000 + commits** and **12 000 + Cursor requests** in the last 300 days.
+### Upcoming Open Source Releases
+Over the next few weeks I’ll open-source several internal automations  
+that already total **3 000 + commits** and **12 000 + Cursor requests** in the last 300 days.
 
 * 🚀 **Digital Marketing & Growth Hacking**  
   * Google Ads **API** agents with automatic landing-page generation (Django)  
