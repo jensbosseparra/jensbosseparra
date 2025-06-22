@@ -20,8 +20,8 @@ AI Engineer • Digital Product Manager • Founder
 </p>
 
 <p align="center">
-  <a href="https://x.com/BosseParra">
-    <img src="https://img.shields.io/badge/X-@BosseParra-1DA1F2?logo=x&logoColor=white" alt="X @BosseParra">
+  <a href="https://x.com/jensbosseparra">
+    <img src="https://img.shields.io/badge/X-@BosseParra-1DA1F2?logo=x&logoColor=white" alt="X @jensbosseparra">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jensbosseparra/">
